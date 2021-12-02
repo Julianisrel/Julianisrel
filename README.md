@@ -6,7 +6,7 @@ Full Stack Web Developer with a creative passion for design.
 
 🌱 Techologies:
 
-    HTML5, CSS, JavaScript
+    HTML5, CSS, JavaScript, Python
     Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
     Axios
     React, Redux, Context API
