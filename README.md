@@ -1,7 +1,7 @@
 
 💻 I'm Julian
 
-Full Stack Web Developer with a passion for design.
+Full Stack Web Developer with a creative passion for design.
 
 
 🌱 Techologies:
