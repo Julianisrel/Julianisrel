@@ -3,7 +3,6 @@
 
 Full Stack Web Developer with a creative passion for design.
 
-
 🌱 Techologies:
 
     HTML5, CSS, JavaScript, Python
