@@ -17,7 +17,7 @@ Full Stack Web Developer with a creative passion for design.
 🔭 Learning:
 
  
- ⚡  Typescript, React Native, Django, SQL
+ ⚡  Elixer, React Native, Django, SQL
 
 
 
