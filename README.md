@@ -1,7 +1,7 @@
 
 💻 I'm Julian
 
-Full Stack Web Developer with a creative passion for design.
+Full Stack Developer with a creative passion for design.
 
 🌱 Techologies:
 
@@ -17,7 +17,7 @@ Full Stack Web Developer with a creative passion for design.
 🔭 Learning:
 
  
- ⚡  Elixer, React Native, Django, SQL
+ ⚡  TypeScirpt, React Native, Django, SQL
 
 
 
