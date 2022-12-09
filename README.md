@@ -17,7 +17,7 @@ Full Stack Developer with a creative passion for design.
 🔭 Learning:
 
  
- ⚡  TypeScirpt, React Native, Django, SQL
+ ⚡  TypeScirpt, Grphql, SQL
 
 
 
