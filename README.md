@@ -5,7 +5,7 @@ Full Stack Developer with a creative passion for design.
 
 🌱 Techologies:
 
-    HTML5, CSS, JavaScript, Python
+    HTML5, CSS, JavaScript, TypeScirpt,Graphql Python
     Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
     Axios
     React, Redux, Context API
@@ -17,7 +17,7 @@ Full Stack Developer with a creative passion for design.
 🔭 Learning:
 
  
- ⚡  TypeScirpt, Grphql, SQL
+ ⚡  Sequelize 
 
 
 
